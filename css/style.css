@@ -2,3 +2,7 @@ body {
     background: rgba(150, 150, 150);
     color: yellow;
 }
+
+.catalog {
+    display: block;
+}
