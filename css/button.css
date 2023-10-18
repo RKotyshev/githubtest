@@ -1,3 +1,5 @@
 .button__show-description {
     border: 2px solid;
+    width: 150px;
+    height: 100px;
 }
